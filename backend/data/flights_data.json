@@ -1,0 +1,62 @@
+[
+  {
+    "flightNumber": "AI-202",
+    "route": "DEL → BOM",
+    "origin": "DEL",
+    "destination": "BOM",
+    "aircraft": "Boeing 737",
+    "departure": "06:30",
+    "status": "Crew Needed",
+    "priority": "High",
+    "crewRequired": 6,
+    "crewAssigned": 0
+  },
+  {
+    "flightNumber": "AI-445",
+    "route": "BLR → HYD",
+    "origin": "BLR",
+    "destination": "HYD",
+    "aircraft": "Airbus A320",
+    "departure": "09:15",
+    "status": "Partially Assigned",
+    "priority": "Medium",
+    "crewRequired": 6,
+    "crewAssigned": 3
+  },
+  {
+    "flightNumber": "AI-789",
+    "route": "BOM → GOI",
+    "origin": "BOM",
+    "destination": "GOI",
+    "aircraft": "Boeing 737",
+    "departure": "11:00",
+    "status": "Fully Assigned",
+    "priority": "Low",
+    "crewRequired": 6,
+    "crewAssigned": 6
+  },
+  {
+    "flightNumber": "AI-156",
+    "route": "DEL → BLR",
+    "origin": "DEL",
+    "destination": "BLR",
+    "aircraft": "Airbus A320",
+    "departure": "14:00",
+    "status": "Crew Needed",
+    "priority": "High",
+    "crewRequired": 6,
+    "crewAssigned": 0
+  },
+  {
+    "flightNumber": "AI-923",
+    "route": "HYD → DEL",
+    "origin": "HYD",
+    "destination": "DEL",
+    "aircraft": "Boeing 737",
+    "departure": "17:30",
+    "status": "Partially Assigned",
+    "priority": "Medium",
+    "crewRequired": 6,
+    "crewAssigned": 2
+  }
+]
