@@ -1,4 +1,6 @@
 from data_structures import *
+import re  # Add this import for regex operations
+
 
 class CrewRecommendationEngine:
     """
@@ -76,6 +78,18 @@ class CrewRecommendationEngine:
             score += param_score * weight
         return round(score, 2)
     
+    def _format_parameter_name(self, param_name):
+        """
+        Convert camelCase parameter name to readable format
+        Example: 'fatigueScore' -> 'Fatigue'
+        """
+        # Remove 'Score' suffix
+        name = param_name.replace('Score', '')
+        # Add space before capital letters (camelCase to Title Case)
+        name = re.sub(r'([A-Z])', r' \1', name)
+        # Strip extra spaces and capitalize
+        return name.strip()
+    
     def get_recommendations(self, flight_data, top_k=5):
         """
         Main recommendation algorithm using multiple data structures
@@ -131,6 +145,13 @@ class CrewRecommendationEngine:
         # Format recommendations
         recommendations = []
         for idx, (crew, score) in enumerate(top_recommendations, 1):
+            # Get key strengths (scores > 85) with proper formatting
+            key_strengths = [
+                self._format_parameter_name(k)
+                for k, v in crew.data.items() 
+                if k.endswith('Score') and v > 85
+            ]
+            
             rec = {
                 'rank': idx,
                 'emp_id': crew.emp_id,
@@ -140,11 +161,7 @@ class CrewRecommendationEngine:
                 'compositeScore': score,
                 'parameters': {k: crew.data.get(k, 0) for k in self.WEIGHTS.keys()},
                 'weights': self.WEIGHTS,
-                'keyStrengths': [
-                    k.replace('Score', '').replace(/([A-Z])/g, ' $1').strip() 
-                    for k, v in crew.data.items() 
-                    if k.endswith('Score') and v > 85
-                ]
+                'keyStrengths': key_strengths
             }
             recommendations.append(rec)
             print(f"   #{idx} {crew.name} - Score: {score:.2f}")
