@@ -50,10 +50,12 @@ def get_crew():
 @app.route('/api/crew/<emp_id>', methods=['GET'])
 def get_crew_by_id(emp_id):
     """Get specific crew member details"""
-    crew = next((c for c in CREW_DATA if c['emp_id'] == emp_id), None)
+    # Try to find by string first, then try as integer
+    crew = next((c for c in CREW_DATA if str(c['emp_id']) == str(emp_id)), None)
     if not crew:
         return jsonify({'error': 'Crew member not found'}), 404
     return jsonify(crew)
+
 
 @app.route('/api/flights', methods=['GET'])
 def get_flights():
