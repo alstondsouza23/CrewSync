@@ -67,19 +67,19 @@ print("\n" + "="*70)
 print("DATA DISTRIBUTION ANALYSIS")
 print("="*70)
 
-print("\n📊 Crew by Designation:")
+print("\nCrew by Designation:")
 for desg, count in sorted(designations.items()):
     print(f"   {desg}: {count} ({count/len(crew_data)*100:.1f}%)")
 
-print("\n🗺 Crew by Base Location:")
+print("\nCrew by Base Location:")
 for loc, count in sorted(locations.items()):
     print(f"   {loc}: {count} ({count/len(crew_data)*100:.1f}%)")
 
-print("\n✈️ Crew by Aircraft Certification:")
+print("\nCrew by Aircraft Certification:")
 for cert, count in sorted(certifications_count.items()):
     print(f"   {cert}: {count} crew members certified")
 
-print("\n📋 Availability Status:")
+print("\nAvailability Status:")
 for status, count in sorted(availability_status.items()):
     print(f"   {status}: {count} ({count/len(crew_data)*100:.1f}%)")
 
@@ -88,7 +88,7 @@ avg_fatigue = sum(c.get('fatigueScore', 0) for c in crew_data) / len(crew_data)
 avg_performance = sum(c.get('performanceScore', 0) for c in crew_data) / len(crew_data)
 avg_reliability = sum(c.get('reliabilityScore', 0) for c in crew_data) / len(crew_data)
 
-print("\n📈 Average Scores:")
+print("\nAverage Scores:")
 print(f"   Fatigue Score: {avg_fatigue:.2f}")
 print(f"   Performance Score: {avg_performance:.2f}")
 print(f"   Reliability Score: {avg_reliability:.2f}")
@@ -97,7 +97,7 @@ print(f"   Reliability Score: {avg_reliability:.2f}")
 crew_scores = [(c['name'], c.get('performanceScore', 0)) for c in crew_data]
 crew_scores.sort(key=lambda x: x[1], reverse=True)
 
-print("\n🏆 Top 5 Performers:")
+print("\nTop 5 Performers:")
 for i, (name, score) in enumerate(crew_scores[:5], 1):
     print(f"   {i}. {name}: {score}")
 
