@@ -29,14 +29,17 @@ class MinHeapCrewScheduler:
     """
     def __init__(self):
         self.heap = []
+        self.counter = 0  # Tie-breaker for same fatigue scores
     
     def insert(self, crew, fatigue_score):
-        heapq.heappush(self.heap, (100 - fatigue_score, crew))
+        # Use counter as tie-breaker: (priority, tie_breaker, crew)
+        heapq.heappush(self.heap, (100 - fatigue_score, self.counter, crew))
         print(f"   [HEAP INSERT] {crew.name} with fatigue score {fatigue_score}")
+        self.counter += 1  # Increment for next insertion
     
     def get_least_fatigued(self):
         if self.heap:
-            fatigue, crew = heapq.heappop(self.heap)
+            fatigue, _, crew = heapq.heappop(self.heap)  # Note: unpack 3 elements now
             actual_fatigue = 100 - fatigue
             print(f"   [HEAP EXTRACT-MIN] {crew.name} (fatigue: {actual_fatigue})")
             return crew
