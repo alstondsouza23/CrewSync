@@ -85,8 +85,9 @@ def get_recommendations(flight_number):
 @app.route('/api/dashboard/stats', methods=['GET'])
 def get_dashboard_stats():
     """Get dashboard statistics"""
-    available_crew = sum(1 for c in CREW_DATA if c['availability'] == 'Available')
-    needs_assignment = sum(1 for f in FLIGHTS_DATA if f['status'] == 'Crew Needed')
+    # Use .get() to handle missing 'availability' key
+    available_crew = sum(1 for c in CREW_DATA if c.get('availability', 'Available') == 'Available')
+    needs_assignment = sum(1 for f in FLIGHTS_DATA if f.get('status', '') == 'Crew Needed')
     
     # Calculate average performance
     total_performance = sum(c.get('performanceScore', 0) for c in CREW_DATA)
@@ -119,16 +120,25 @@ def health_check():
 # ============================================
 
 if __name__ == '__main__':
+    import os
+    
     print("\n" + "="*70)
-    print("Flask server starting on http://localhost:5000")
+    print("Flask server starting...")
     print("="*70)
     print("\nAvailable endpoints:")
     print("  GET  /api/crew")
+    print("  GET  /api/crew/<emp_id>")
     print("  GET  /api/flights")
+    print("  GET  /api/flights/<flight_number>")
     print("  GET  /api/recommendations/<flight_number>")
     print("  GET  /api/dashboard/stats")
     print("  GET  /api/demo/heap")
+    print("  GET  /api/health")
     print("\nPress CTRL+C to stop the server")
     print("="*70 + "\n")
     
-    app.run(debug=True, port=5000, host='0.0.0.0')
+    # Get port from environment variable (Render provides this)
+    port = int(os.environ.get('PORT', 5000))
+    
+    # Use 0.0.0.0 to make server accessible externally
+    app.run(host='0.0.0.0', port=port, debug=False)

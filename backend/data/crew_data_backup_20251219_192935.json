@@ -20,12 +20,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 85,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 102,
@@ -48,12 +43,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 92,
     "routeFamiliarityScore": 89,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 103,
@@ -76,12 +66,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 75,
     "routeFamiliarityScore": 77,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 104,
@@ -104,12 +89,7 @@
     "certificationValidityScore": 95,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 94,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 105,
@@ -132,12 +112,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 106,
@@ -160,12 +135,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 91,
     "routeFamiliarityScore": 88,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 107,
@@ -188,12 +158,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 108,
@@ -216,12 +181,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 109,
@@ -244,12 +204,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 110,
@@ -272,12 +227,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 111,
@@ -300,12 +250,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 112,
@@ -328,12 +273,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 92,
     "routeFamiliarityScore": 90,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 113,
@@ -356,12 +296,7 @@
     "certificationValidityScore": 89,
     "languageProficiencyScore": 74,
     "routeFamiliarityScore": 76,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 114,
@@ -384,12 +319,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 115,
@@ -412,12 +342,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 116,
@@ -440,12 +365,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 117,
@@ -468,12 +388,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 118,
@@ -496,12 +411,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 119,
@@ -524,12 +434,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 81,
     "routeFamiliarityScore": 84,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 120,
@@ -552,12 +457,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 91,
     "routeFamiliarityScore": 89,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 121,
@@ -580,12 +480,7 @@
     "certificationValidityScore": 88,
     "languageProficiencyScore": 73,
     "routeFamiliarityScore": 75,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 122,
@@ -608,12 +503,7 @@
     "certificationValidityScore": 98,
     "languageProficiencyScore": 97,
     "routeFamiliarityScore": 96,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 123,
@@ -636,12 +526,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 124,
@@ -664,12 +549,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 125,
@@ -692,12 +572,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 126,
@@ -720,12 +595,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 127,
@@ -748,12 +618,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 128,
@@ -776,12 +641,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 129,
@@ -804,12 +664,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 130,
@@ -832,12 +687,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 131,
@@ -860,12 +710,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 132,
@@ -888,12 +733,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 133,
@@ -916,12 +756,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 134,
@@ -944,12 +779,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 135,
@@ -972,12 +802,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 136,
@@ -1000,12 +825,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 137,
@@ -1028,12 +848,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 138,
@@ -1056,12 +871,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 139,
@@ -1084,12 +894,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 140,
@@ -1112,12 +917,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 141,
@@ -1140,12 +940,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 142,
@@ -1168,12 +963,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 143,
@@ -1196,12 +986,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 144,
@@ -1224,12 +1009,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 145,
@@ -1252,12 +1032,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 146,
@@ -1280,12 +1055,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 92,
     "routeFamiliarityScore": 90,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 147,
@@ -1308,12 +1078,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 148,
@@ -1336,12 +1101,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 149,
@@ -1364,12 +1124,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 150,
@@ -1392,12 +1147,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 151,
@@ -1420,12 +1170,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 152,
@@ -1448,12 +1193,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 153,
@@ -1476,12 +1216,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 154,
@@ -1504,12 +1239,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 155,
@@ -1532,12 +1262,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 156,
@@ -1560,12 +1285,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 92,
     "routeFamiliarityScore": 90,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 157,
@@ -1588,12 +1308,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 158,
@@ -1616,12 +1331,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 159,
@@ -1644,12 +1354,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 160,
@@ -1672,12 +1377,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 161,
@@ -1700,12 +1400,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 162,
@@ -1728,12 +1423,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 163,
@@ -1756,12 +1446,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 164,
@@ -1784,12 +1469,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 165,
@@ -1812,12 +1492,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 166,
@@ -1840,12 +1515,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 167,
@@ -1868,12 +1538,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 168,
@@ -1896,12 +1561,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 169,
@@ -1924,12 +1584,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 170,
@@ -1952,12 +1607,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 171,
@@ -1980,12 +1630,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 172,
@@ -2008,12 +1653,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 173,
@@ -2036,12 +1676,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 174,
@@ -2064,12 +1699,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 175,
@@ -2092,12 +1722,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 176,
@@ -2120,12 +1745,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 177,
@@ -2148,12 +1768,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 178,
@@ -2176,12 +1791,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 179,
@@ -2204,12 +1814,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 180,
@@ -2232,12 +1837,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 181,
@@ -2260,12 +1860,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 182,
@@ -2288,12 +1883,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 183,
@@ -2316,12 +1906,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 184,
@@ -2344,12 +1929,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 185,
@@ -2372,12 +1952,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 186,
@@ -2400,12 +1975,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 187,
@@ -2428,12 +1998,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 188,
@@ -2456,12 +2021,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 189,
@@ -2484,12 +2044,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 190,
@@ -2512,12 +2067,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 191,
@@ -2540,12 +2090,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 192,
@@ -2568,12 +2113,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 193,
@@ -2596,12 +2136,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 194,
@@ -2624,12 +2159,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 195,
@@ -2652,12 +2182,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 196,
@@ -2680,12 +2205,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 197,
@@ -2708,12 +2228,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 198,
@@ -2736,12 +2251,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 199,
@@ -2764,12 +2274,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 200,
@@ -2792,12 +2297,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 201,
@@ -2820,12 +2320,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 202,
@@ -2848,12 +2343,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 203,
@@ -2876,12 +2366,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 204,
@@ -2904,12 +2389,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 205,
@@ -2932,12 +2412,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 206,
@@ -2960,12 +2435,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 92,
     "routeFamiliarityScore": 90,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 207,
@@ -2988,12 +2458,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 208,
@@ -3016,12 +2481,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 209,
@@ -3044,12 +2504,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 210,
@@ -3072,12 +2527,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 211,
@@ -3100,12 +2550,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 212,
@@ -3128,12 +2573,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 213,
@@ -3156,12 +2596,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 214,
@@ -3184,12 +2619,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 215,
@@ -3212,12 +2642,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 216,
@@ -3240,12 +2665,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 217,
@@ -3268,12 +2688,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 218,
@@ -3296,12 +2711,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 219,
@@ -3324,12 +2734,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 220,
@@ -3352,12 +2757,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 221,
@@ -3380,12 +2780,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 222,
@@ -3408,12 +2803,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 223,
@@ -3436,12 +2826,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 224,
@@ -3464,12 +2849,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 225,
@@ -3492,12 +2872,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 226,
@@ -3520,12 +2895,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 227,
@@ -3548,12 +2918,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 228,
@@ -3576,12 +2941,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 229,
@@ -3604,12 +2964,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 230,
@@ -3632,12 +2987,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 231,
@@ -3660,12 +3010,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 79,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 232,
@@ -3688,12 +3033,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 233,
@@ -3716,12 +3056,7 @@
     "certificationValidityScore": 93,
     "languageProficiencyScore": 78,
     "routeFamiliarityScore": 82,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 234,
@@ -3744,12 +3079,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 235,
@@ -3772,12 +3102,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 236,
@@ -3800,12 +3125,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 237,
@@ -3828,12 +3148,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 238,
@@ -3856,12 +3171,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 239,
@@ -3884,12 +3194,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 240,
@@ -3912,12 +3217,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 241,
@@ -3940,12 +3240,7 @@
     "certificationValidityScore": 91,
     "languageProficiencyScore": 76,
     "routeFamiliarityScore": 80,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 242,
@@ -3968,12 +3263,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 94,
     "routeFamiliarityScore": 92,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 243,
@@ -3996,12 +3286,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 244,
@@ -4024,12 +3309,7 @@
     "certificationValidityScore": 96,
     "languageProficiencyScore": 95,
     "routeFamiliarityScore": 93,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 245,
@@ -4052,12 +3332,7 @@
     "certificationValidityScore": 90,
     "languageProficiencyScore": 77,
     "routeFamiliarityScore": 78,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 246,
@@ -4080,12 +3355,7 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 247,
@@ -4108,12 +3378,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 80,
     "routeFamiliarityScore": 83,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 248,
@@ -4136,12 +3401,7 @@
     "certificationValidityScore": 94,
     "languageProficiencyScore": 93,
     "routeFamiliarityScore": 91,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 249,
@@ -4164,12 +3424,7 @@
     "certificationValidityScore": 92,
     "languageProficiencyScore": 79,
     "routeFamiliarityScore": 81,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   },
   {
     "emp_id": 250,
@@ -4192,11 +3447,6 @@
     "certificationValidityScore": 97,
     "languageProficiencyScore": 96,
     "routeFamiliarityScore": 95,
-    "availability": "Available",
-    "certifications": [
-      "Boeing 737",
-      "Airbus A320"
-    ],
-    "baseLocation": "DEL"
+    "availability": "Available"
   }
 ]

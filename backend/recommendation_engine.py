@@ -1,5 +1,5 @@
 from data_structures import *
-import re  # Add this import for regex operations
+import re
 
 
 class CrewRecommendationEngine:
@@ -105,16 +105,24 @@ class CrewRecommendationEngine:
         eligible_crew = self.cert_hashmap.get_by_certification(flight_data['aircraft'])
         print(f"   Result: {len(eligible_crew)} crew members certified for {flight_data['aircraft']}")
         
-        # STEP 2: Filter by availability
+        # STEP 2: Filter by availability (case-insensitive)
         print(f"\n[STEP 2] AVAILABILITY FILTERING")
         print("-" * 70)
-        available_crew = [c for c in eligible_crew if c.data.get('availability') == 'Available']
+        available_crew = [
+            c for c in eligible_crew 
+            if c.data.get('availability', '').lower() == 'available'
+        ]
         print(f"   Available crew: {len(available_crew)} out of {len(eligible_crew)}")
-        for crew in available_crew:
-            print(f"   ✓ {crew.name} - {crew.base_location}")
+        
+        if len(available_crew) > 0:
+            for crew in available_crew[:5]:  # Show first 5
+                print(f"   ✓ {crew.name} - {crew.base_location}")
+            if len(available_crew) > 5:
+                print(f"   ... and {len(available_crew) - 5} more")
         
         if len(available_crew) == 0:
             print(f"\n   ⚠ WARNING: No available crew found!")
+            print(f"   Tip: Check if crew_data.json has 'availability': 'Available'")
             return []
         
         # STEP 3: Check location feasibility using Graph (O(1) per check)
@@ -127,6 +135,10 @@ class CrewRecommendationEngine:
             if can_reach:
                 reachable_crew.append(crew)
         print(f"   Result: {len(reachable_crew)} crew can reach {origin}")
+        
+        if len(reachable_crew) == 0:
+            print(f"\n   ⚠ WARNING: No crew can reach {origin}!")
+            return []
         
         # STEP 4: Build BST with composite scores and extract top K
         print(f"\n[STEP 4] BST RANKING - Building tree and extracting top {top_k}")
